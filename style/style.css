@@ -188,11 +188,18 @@ ul#menu li.selected a, ul#menu li.selected a:hover
 ul#menu li a:hover
 { color: #B48A7C;}
 
-#site_content
-{ width: 880px;
-  overflow: hidden;
-  margin: 20px auto 0 auto;
-  padding: 0 0 10px 0;} 
+#site_content {
+
+    width: 943px;
+    overflow: hidden;
+    margin: 20px auto 0 auto;
+    padding: 13px 0 10px 0;
+    color: 
+
+    yellowgreen;
+    font-style: oblique;
+
+}
 
 #sidebar_container
 { float: left;
